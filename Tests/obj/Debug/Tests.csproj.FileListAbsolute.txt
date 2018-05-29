@@ -1,0 +1,10 @@
+C:\Users\Yuri\Documents\Unity HTM1\Tests\bin\Debug\Tests.exe.config
+C:\Users\Yuri\Documents\Unity HTM1\Tests\bin\Debug\Tests.exe
+C:\Users\Yuri\Documents\Unity HTM1\Tests\bin\Debug\Tests.pdb
+C:\Users\Yuri\Documents\Unity HTM1\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Users\Yuri\Documents\Unity HTM1\Tests\obj\Debug\Tests.exe
+C:\Users\Yuri\Documents\Unity HTM1\Tests\obj\Debug\Tests.pdb
+C:\Users\Yuri\Documents\Unity HTM1\Tests\bin\Debug\Assembly-CSharp.dll
+C:\Users\Yuri\Documents\Unity HTM1\Tests\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Yuri\Documents\Unity HTM1\Tests\bin\Debug\UnityEngine.xml
+C:\Users\Yuri\Documents\Unity HTM1\Tests\bin\Debug\UnityEngine.dll
