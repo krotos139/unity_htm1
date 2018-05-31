@@ -46,6 +46,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\CameraController.cs" />
      <Compile Include="Assets\HTM1\HTM1.cs" />
      <Compile Include="Assets\HTM1\Lib\Column.cs" />
      <Compile Include="Assets\HTM1\Lib\DebugLog.cs" />
@@ -57,6 +58,7 @@
      <Compile Include="Assets\HTM1\Lib\OutputMatrix.cs" />
      <Compile Include="Assets\HTM1\Lib\SubZone.cs" />
      <Compile Include="Assets\HTM1\Lib\Tests.cs" />
+     <Compile Include="Assets\Player.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
