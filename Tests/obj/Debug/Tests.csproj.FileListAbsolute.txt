@@ -8,3 +8,13 @@ C:\Users\Yuri\Documents\Unity HTM1\Tests\bin\Debug\Assembly-CSharp.dll
 C:\Users\Yuri\Documents\Unity HTM1\Tests\bin\Debug\Assembly-CSharp.pdb
 C:\Users\Yuri\Documents\Unity HTM1\Tests\bin\Debug\UnityEngine.xml
 C:\Users\Yuri\Documents\Unity HTM1\Tests\bin\Debug\UnityEngine.dll
+C:\repo\unity_htm1\Tests\obj\Debug\Tests.csprojAssemblyReference.cache
+C:\repo\unity_htm1\Tests\obj\Debug\Tests.csproj.CoreCompileInputs.cache
+C:\repo\unity_htm1\Tests\obj\Debug\Tests.exe
+C:\repo\unity_htm1\Tests\obj\Debug\Tests.pdb
+C:\repo\unity_htm1\Tests\bin\Debug\Tests.exe.config
+C:\repo\unity_htm1\Tests\bin\Debug\Tests.exe
+C:\repo\unity_htm1\Tests\bin\Debug\Tests.pdb
+C:\repo\unity_htm1\Tests\bin\Debug\Assembly-CSharp.dll
+C:\repo\unity_htm1\Tests\bin\Debug\Assembly-CSharp.pdb
+C:\repo\unity_htm1\Tests\obj\Debug\Tests.csproj.CopyComplete

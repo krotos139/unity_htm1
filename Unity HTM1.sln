@@ -1,9 +1,13 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity HTM1", "Assembly-CSharp.csproj", "{8DAAE1AC-B881-DCF4-9489-0F8B2C1A442F}"
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{8DAAE1AC-B881-DCF4-9489-0F8B2C1A442F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity HTM1", "Assembly-CSharp-Editor.csproj", "{2A2EE9EA-5011-7CE9-BFAD-BE38A2BC55DB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{2A2EE9EA-5011-7CE9-BFAD-BE38A2BC55DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{B7AFCDF2-FB37-4516-B505-3D70E76BBE40}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,9 +23,16 @@ Global
 		{2A2EE9EA-5011-7CE9-BFAD-BE38A2BC55DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A2EE9EA-5011-7CE9-BFAD-BE38A2BC55DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2A2EE9EA-5011-7CE9-BFAD-BE38A2BC55DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7AFCDF2-FB37-4516-B505-3D70E76BBE40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7AFCDF2-FB37-4516-B505-3D70E76BBE40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7AFCDF2-FB37-4516-B505-3D70E76BBE40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7AFCDF2-FB37-4516-B505-3D70E76BBE40}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7097B2C-2FA9-4ABD-95FA-D08D6BCDF9CB}
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj

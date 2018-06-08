@@ -1,6 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
-using UnityEngine;
+using System;
 
 public class InputMatrix : ISubZone {
 
@@ -69,7 +69,7 @@ public class InputMatrix : ISubZone {
     // Debug
     public void setBooleans(bool[] in1)
     {
-        for (int i = 0; i < Mathf.Min(inputs.Length, in1.Length); i++)
+        for (int i = 0; i < Math.Min(inputs.Length, in1.Length); i++)
         {
             inputs[i].active = in1[i] ? 1.0f : 0.0f;
             inputs[i].prediction = 0.0f;
